@@ -13,7 +13,7 @@ This project is a Node.js/Express backend that uses AWS DynamoDB for data storag
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rckstrpnda/covrzy-assignment
 cd covrzy
 ```
 
